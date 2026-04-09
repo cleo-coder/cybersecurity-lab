@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 &#x20;**End-to-End Penetration Testing Lab**
 
 
@@ -118,3 +119,7 @@ This project was conducted in a controlled lab environment for educational purpo
 
 
 
+=======
+# cybersecurity-lab
+End-to-end penetration testing lab simulating real-world attack scenarios using Kali Linux and Metasploitable 2. Includes network reconnaissance, vulnerability exploitation using Metasploit, and post-exploitation analysis with documented evidence.
+>>>>>>> 7f12b3f40c0ddd99bed4416d2c735bd651949cac
